@@ -1,4 +1,4 @@
-# react-native-geocoding
+# react-native-geocoding-simple
 
 A geocoding module for [React Native](https://github.com/facebook/react-native) to transform a description of a location (i.e. street address, town name, etc.) into geographic coordinates (i.e. latitude and longitude) and vice versa.
 
@@ -65,4 +65,4 @@ Geocoder.from([41.89, 12.49]);
 
 ## Release Notes
 
-See [CHANGELOG.md](https://github.com/marlove/react-native-geocoding/blob/master/CHANGELOG.md)
+See [CHANGELOG.md](https://github.com/expatriate/react-native-geocoding-simple/blob/master/CHANGELOG.md)
